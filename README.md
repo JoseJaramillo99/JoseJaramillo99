@@ -102,12 +102,6 @@ Sistema de agendamiento de citas médicas con integración a historia clínica, 
 - Laravel Octane con Swoole para alto rendimiento
 - Testing avanzado y TDD
 
-## 📝 Publicaciones y charlas
-
-- Webinar: "Optimización de Aplicaciones Laravel para Alto Rendimiento", 2023
-- Artículo: "Implementación de Filament en Sistemas de Gestión Empresarial", 2022
-- Charla: "Integración de Microsoft Graph API con Laravel", 2022
-
 ## 📫 Contacto
 
 - ✉️ Email: [jaranava1999@gmail.com](mailto:jaranava1999@gmail.com)
@@ -115,4 +109,4 @@ Sistema de agendamiento de citas médicas con integración a historia clínica, 
 
 ---
 
-⭐️ Gracias por visitar mi perfil! Si encuentras interesante alguno de mis proyectos, no dudes en darle una estrella o contactarme para colaboraciones profesionales. 
+⭐️ Gracias por visitar mi perfil! Si encuentras interesante alguno de mis proyectos, no dudes en darle una estrella o contactarme para colaboraciones profesionales.
