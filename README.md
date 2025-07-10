@@ -87,11 +87,6 @@ Me apasiona la optimización de procesos mediante la tecnología y la creación 
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
 </p>
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=josejaramillo&show_icons=true&theme=radical&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=josejaramillo&layout=compact&theme=radical&locale=es)
-
 ## 🌱 Actualmente aprendiendo
 
 - Docker y orquestación con Kubernetes
